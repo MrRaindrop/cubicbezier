@@ -1,7 +1,7 @@
 {
   "name": "cubicbezier",
   "description": "function to generate cubicbezier lines.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "contributors": [
     {
       "name": "mr.raindrop",
